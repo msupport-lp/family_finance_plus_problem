@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
             custom_event_name: 'cta_click',
 
             // LPごとに変更
-            lp_category: 'family_finance_plus_lp2'
+            lp_category: 'family_finance_plus_problem'
 
         });
 
